@@ -1,0 +1,15 @@
+{
+  "name": "IKT-PWA-News",
+  "version": "1.0.0",
+  "description": "Semesteraufgabe-IKT-PWA",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": ["pwa", "progressive", "web", "app", "ikt", "htw", "fiw"],
+  "author": "Leonie Zeller",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
