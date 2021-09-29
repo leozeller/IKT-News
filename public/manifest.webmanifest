@@ -1,0 +1,13 @@
+{
+ "short_name": "News",
+ "name": "IKT-News",
+ "lang": "de",
+ "description": "PWA Semesteraufgabe IKT",
+ "start_url": "/index.html",
+ "background_color": "#e6ebb5",
+ "theme_color": "#730f1b",
+ "dir": "ltr",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "prefer_related_applications": "false"
+}
